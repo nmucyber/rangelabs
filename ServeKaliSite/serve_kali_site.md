@@ -50,33 +50,33 @@ Now, Kali Linux is serving a website. **Note the IP address in the terminal prom
 
 * Click **Other Machines**.
 
-[Other Machines](other_button.png)
+![Other Machines](other_button.png)
 
 * Click **Connect** on the Windows 7 virtual machine.
 
-[Windows 7 Connect](win7_connect_button.png)
+![Windows 7 Connect](win7_connect_button.png)
 
 * Open a web browser on the Windows desktop.
 * Enter the IP address of your Kali VM in the URL. You should see the default web server homepage.
 
-[Default Homepage](debian_homepage.png)
+![Default Homepage](debian_homepage.png)
 
 * Add **/hello.txt** to the url. You should see the contents of the file you created on the Kali VM.
 
-[Hello.txt served](hello_served.png)
+![Hello.txt served](hello_served.png)
 
 * Right-click in the browser and choose "Save as...".
 
-[Save as](save_as.png)
+![Save as](save_as.png)
 
 * Choose the Desktop folder, and click Save.
 
-[Save to Desktop](save_to_desktop.png)
+![Save to Desktop](save_to_desktop.png)
 
 * Close the browser.
 * The "hello" text file should be on the desktop. Double-click it to open it.
 
-[Hello.txt in Notepad](hello_in_notepad.png)
+![Hello.txt in Notepad](hello_in_notepad.png)
 
 ## Challenge 1
 
