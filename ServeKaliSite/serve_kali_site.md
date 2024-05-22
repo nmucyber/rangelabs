@@ -13,23 +13,23 @@ Virtual machines in the cyber.org range have limited internet access. Do not use
   * Username: vphtfq
   * Password: xcbqf6yw
 
-[Login](login.png)
+![Login](login.png)
 
 Important: You cannot log in with your personal email.
 
 * Open the classroom.
 
-[Classroom](open_classroom.png)
+![Classroom](open_classroom.png)
 
 ## Launch Virtual Machines
 
 * Click the **launch** buttons for the Kali Linux and Windows 7 virtual machines.
 
-[Launch VMs](launch_vm_buttons.png)
+![Launch VMs](launch_vm_buttons.png)
 
 * The virtual machines will take a few minutes to boot. You can monitor their progress.
 
-[Booting](booting.png)
+![Booting](booting.png)
 
 ## Kali Configuration
 
